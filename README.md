@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michal and I'm Java and PHP programmer. I'm also part of @ScreamingSandals organization where I work on plugins for Minecraft servers.
+I'm Michal and I'm Java and PHP programmer. I'm also part of ScreamingSandals organization where I work on plugins for Minecraft servers.
 
 <!--
 **Misat11/Misat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
