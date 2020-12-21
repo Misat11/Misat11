@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Michal and I'm Java and PHP programmer. I'm also part of @ScreamingSandals organization where I work on plugins for Minecraft servers.
+
 <!--
 **Misat11/Misat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Misat11&show_icons=true&theme=dark)
